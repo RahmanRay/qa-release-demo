@@ -1,0 +1,9 @@
+{
+  "service": "qa-release-demo",
+  "version": "1.0.0",
+  "commit": "7c1ecdef3dd2378c539b7d9fb56a92acff2c93ae",
+  "branch": "main",
+  "builtAt": "2026-10-05T13:22:42Z",
+  "buildId": "demo-stable",
+  "dirty": false
+}
